@@ -41,3 +41,4 @@ La justificacion teorica de cada solucion esta en [docs/demostraciones.md](docs/
 - `problema3_nokia.py`: cuenta combinaciones validas de digitos usando una tabla DP construida de abajo hacia arriba.
 
 # Link al video:
+https://drive.google.com/drive/folders/1SSjSM8FV0eBmizx4OPwL6Cly5Q0V8Zcf?usp=sharing 
